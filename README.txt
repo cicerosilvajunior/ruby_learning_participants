@@ -61,3 +61,12 @@ Change log:
 Cheers,
 ashbb (Satoshi Asakawa)
 http://rubylearning.org
+
+
+--------------------------------------------------------------------
+
+Cheers,
+Cicero Silva Jr
+http://rubylearning.org
+
+
